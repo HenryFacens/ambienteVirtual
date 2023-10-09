@@ -54,16 +54,5 @@ crashlytics-build.properties
 # VS Code generated files
 .vscode/
 
-# Python Virtual Enviroment
-venv/
-__init__.py
-*.config
-InitCodeMarker
-build_BackUpThisFolder_ButDontShipItWithYourGame/
-*.pt
-__pycache__/
-requiriments.txt
-*.csv
-[Nn]u[Gg]et*
-*.meta
-tests/
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
